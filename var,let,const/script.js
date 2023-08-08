@@ -30,7 +30,8 @@ func2();
 // type 체크
 func3();
 // loop 확인
-
+func4();
+// loop 확인
 function func1(){
     console.log('Function Test1');
     if(true){
@@ -73,7 +74,9 @@ function func3(){
     console.log(Array.isArray(habbies));
 }
 
-
+function func4{
+    const age = 30;
+}
 
 
 
